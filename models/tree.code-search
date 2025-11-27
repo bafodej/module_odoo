@@ -1,0 +1,13 @@
+# Query: tree
+# ContextLines: 1
+
+2 résultats - 1 fichier
+
+addons/certification_management/views/certification_views.xml:
+   59      <record id="view_certification_list" model="ir.ui.view">
+   60:         <field name="name">certification.management.list</field>
+   61          <field name="model">certification.management</field>
+
+  103          <field name="res_model">certification.management</field>
+  104:         <field name="view_mode">list,form</field>
+  105          <field name="context">{'search_default_in_progress': 1}</field>
