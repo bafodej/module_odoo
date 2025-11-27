@@ -90,7 +90,6 @@ Ce module a été développé dans le cadre d'une candidature pour une alternanc
 **Bafode Jaiteh**
 - GitHub: [@bvfode](https://github.com/bvfode)
 - Formation : Bac+3/4 AI & Data Science - Simplon Lille
-- En recherche d'alternance développeur Odoo (janvier 2026)
 
 ## 📝 Licence
 
