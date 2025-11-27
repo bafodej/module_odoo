@@ -78,7 +78,7 @@ docker run -d \
 
 ## 💼 Contexte du projet
 
-Ce module a été développé dans le cadre d'une candidature pour une alternance en développement Odoo chez le Groupe Acuria. Il illustre la compréhension :
+Ce module a été développé dans le cadre de ma découverte  et de mon apronfondissement de l'ERP odoo. Il illustre la compréhension :
 - De l'architecture MVC d'Odoo
 - Du développement de modèles Python avec ORM
 - De la création de vues XML personnalisées
