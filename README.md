@@ -1,6 +1,6 @@
 # Gestion des Certifications - Module Odoo
 
-Module de gestion des certifications développé pour répondre aux besoins du Groupe Acuria (certification, formation, inspection).
+Module de gestion des certifications développé pour répondre aux besoins de certification, formation, et inspection.
 
 ## 📋 Description
 
