@@ -87,8 +87,8 @@ Ce module a été développé dans le cadre de ma découverte  et de mon apronfo
 ## 🧑‍💻 Auteur
 
 **Bafode Jaiteh**
-- GitHub: [@bvfode](https://github.com/bvfode)
-- Formation : Bac+3/4 AI & Data Science - Simplon Lille
+
+
 
 ## 📝 Licence
 
