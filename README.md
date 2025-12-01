@@ -1,6 +1,5 @@
 # Gestion des Certifications - Module Odoo
 
-
 ## 📋 Description
 
 Ce module permet de gérer le cycle complet des demandes de certification :
